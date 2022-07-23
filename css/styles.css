@@ -983,6 +983,7 @@ Single Page
 */
 .single-page {
     min-height: calc(100vh - 5rem - 40vh - 198px);
+    padding: 2rem 0;
 }
 
 .other-pages-center {
